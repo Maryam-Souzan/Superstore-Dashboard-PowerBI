@@ -23,8 +23,6 @@ This Power BI dashboard analyzes the Superstore dataset to provide interactive i
 
 ## Screenshots
 ![Dashboard Overview](screenshots/dashboard_overview.png)
-![Category Breakdown](screenshots/category_breakdown.png)
-![Regional Map](screenshots/regional_map.png)
 
 ## Notes
 - Dataset is anonymized/sample data to respect privacy.
